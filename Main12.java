@@ -14,6 +14,6 @@ public class Main12 {
 
     public static boolean contains3(LinkedList<String> list) {
         HashSet<String> aux = new HashSet<>(list);
-        
+        return false;
     }
 }
